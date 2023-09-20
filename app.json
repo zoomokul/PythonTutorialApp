@@ -1,4 +1,7 @@
 {
   "name": "PythonTutorialApp",
-  "displayName": "PythonTutorialApp"
+  "displayName": "PythonTutorialApp",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9981135393846597~2610586626"
+  }
 }
